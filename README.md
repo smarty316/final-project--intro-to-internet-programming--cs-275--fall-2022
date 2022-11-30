@@ -95,8 +95,8 @@ Monday, 12 December 2022, at 11:59 AM.
 | *Mobile version of modal works, according to instructions*                         | `10`   |
 | *Desktop version of drop down menu works, according to instructions*               | `10`   |
 | *Mobile version of drop down menu (side tray) works, according to instructions*    | `10`   |
-| *Full Gulp development scaffolds in place*                                         | `10`   |
-| *Full Gulp production scaffolds in place*                                          | `10`   |
+| *Full Gulp development scaffold in place*                                          | `10`   |
+| *Full Gulp production scaffold in place*                                           | `10`   |
 
 **Tip**: To ensure the files required by your project are not being ignored, you’re strongly advised to clone your repo into a different folder on your computer, or to a different computer altogether.
 
