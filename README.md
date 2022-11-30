@@ -68,7 +68,7 @@ You must employ Gulp as the task runner with workflows for development and produ
 #### Development
 * Your CSS must validate using the enclosed `.stylelintrc.json` file.
 * Your JavaScript must validate using the included `.eslintrc.json` file.
-* Your JavaScript must be transpiled to ES5.
+* Your JavaScript must transpile to ES5.
 * The development, or dev, track must lint/validate CSS and JavaScript each time you save a `.css` or `.js` file.
 * Additionally, the development track must also refresh the browser when any of these files have changed.
 * `gulp serve` triggers the dev track.
