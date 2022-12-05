@@ -38,7 +38,7 @@ let transpileJSForDev = () => {
 };
 
 let lintCSS = () => {
-    return src(`css/styles.css`)
+    return src(`styles/main.css`)
         .pipe(CSSLinter({
             failAfterError: false,
             reporters: [
